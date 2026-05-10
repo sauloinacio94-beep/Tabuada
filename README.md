@@ -1,5 +1,3 @@
-# Tabuada
-
 # Gerador de tabuada em python 🐍
 
 * Este é um projeto simples para treinar a lógica de programação em python
